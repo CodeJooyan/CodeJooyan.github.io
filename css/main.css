@@ -24,6 +24,15 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.nav-link{
+  font-weight: bold;
+  font-size: 20px !important;
+}
+
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -2272,6 +2281,7 @@ p {
 .category {
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 20px;
   color: #9A9A9A; }
 
 .text-primary {
