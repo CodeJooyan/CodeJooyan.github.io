@@ -4701,7 +4701,8 @@ body.right_toggle_open .blog_right_toggle_sidebar .blog_togglediv {
     padding: 0px 30px;
 }
 .blog_header_style2 .blog_main_header .blog_tranding_slider{
-    width: 400px;
+    text-align: right;
+    width: 530px;
 }
 .blog_main_menu .blog_main_menu_innerdiv ul li a {
     margin: 0px 10px;
